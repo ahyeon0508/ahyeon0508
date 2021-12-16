@@ -2,19 +2,20 @@
 
 # 🌱 Ahyeon Lee 🌱
 
--------------
+
 
 ### Interests : Data Analysis and AI 📊👩‍💻
 
--------------
 
+<br>
+<br>
 
 ![아현's info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahyeon0508&theme=monokai)
 
--------------
+<br>
 
 
-###🌳 Tech Stack 🌳
+### 🌳 Tech Stack 🌳
 
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
