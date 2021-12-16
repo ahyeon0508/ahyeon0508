@@ -14,8 +14,7 @@
 
 <br>
 
-
-### 🌳 Tech Stack 🌳
+#### 🌳 Tech Stack 🌳
 
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -43,11 +42,11 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 </div>
-    <h3>
+    <h4>
         <details>
             <summary>🎨 Experience and Study 🎨
             </summary>
-            <div markdown="1"style="font-size: 14px"><br>
+            <div markdown="1"><br>
                 <a href="">Experience</a><br>
                 <a href="https://github.com/ahyeon0508/Algorithm">Algorithm</a><br>
                 <a href="https://github.com/ahyeon0508/DS_CoalaUNIV2nd">CoalaUNIV2nd</a><br>
@@ -57,27 +56,30 @@
                 <a href="https://github.com/ahyeon0508/DS_Recommendation-System">Recommendation-System</a><br>
             </div>
         </details>
-    </h3>
-    <h3>
-        <details>
-            <summary>📚 Project 📚
-            </summary>
-                <div markdown="1" style="font-size: 14px"><br>
-                    <a href="">2021년 디지털 산업혁신 빅데이터 플랫폼 경진대회</a><br>
-                    <a href="https://github.com/ahyeon0508/Interview-Solution_project_v2.0">새내기路(로) : AI기반 대입 모의 면접 솔루션</a><br>
-                    <a href="https://github.com/ahyeon0508/Topping-Issue">톺핑있슈(Topping-Issue)</a><br>
-                    <a href="">2021 금융 데이터 경진대회</a><br>
-                    <a href="">2021년 문화 · 관광 빅 데이터 분석대회</a><br>
-                    <a href="">공공개방자원을 활용한 개인 맞춤형 워케이션(Workation) 지역 추천 및 지역관광 활성화 방안 제시</a><br>
-                    <a href="">인공지능 학습용 데이터 활용 아이디어 공모전</a><br>
-                    <a href="https://github.com/ahyeon0508/Carrot_project">강화학습을 활용한 AI 당근재배 하우스</a><br>
-                    <a href="https://github.com/ahyeon0508/2020_software_project">고영희 찾기</a><br>
-                    <a href="https://github.com/ahyeon0508/DS_CoalaUNIV2nd/blob/main/2%EA%B8%B0_%EC%88%AD%EC%BD%94%EB%94%A9%EB%8B%B9%EB%8B%B9_%EC%B5%9C%EC%A2%85.ipynb">내 연애는 얼마나 오래 갈까?</a><br>
-                    <a href="">Mella</a><br><br>
-                    <a href="">🏆 수상내역 🏆</a>
-                </div>
-        </details>
-    </h3>
+    </h4>
+
+<h4>
+<details>
+        <summary>📚 Project 📚
+        </summary>
+    
+
+| 기간 | 프로젝트명 | 역할 | 수상내역 |
+| --- | --- | --- | --- |
+| 2021.11 ~ 2021.12 | <a href="">2021년 디지털 산업혁신 빅데이터 플랫폼 경진대회</a> | 기획, 시각화 | 예선 통과 |
+| 2020.08 ~ 2021.11 | <a href="https://github.com/ahyeon0508/Interview-Solution_project_v2.0">새내기路(로) : AI기반 대입 모의 면접 솔루션</a> | 기획, 웹 프론트, API, 논문 작성 등 | 교내외 공모전 4개 수상(리드미 참고) |
+| 2021.09 ~ 2021.10 | <a href="https://github.com/ahyeon0508/Topping-Issue">톺핑있슈(Topping-Issue)</a> | 기획, 감성 분석, 웹 | - |
+| 2021.07 ~ 2021.09 | <a href="">2021 금융 데이터 경진대회</a> | 기획, 머신러닝 | - |
+| 2021.06 ~ 2021.08 | <a href="">2021년 문화 · 관광 빅 데이터 분석대회</a> | 기획, 머신러닝 | 우수(신한카드) |
+| 2021.07 ~ 2021.08 | <a href="">공공개방자원을 활용한 개인 맞춤형 워케이션(Workation) 지역 추천 및 지역관광 활성화 방안 제시</a> | 기획, 머신러닝 | - |
+| 2020.12 ~ 2021.01 | <a href="">인공지능 학습용 데이터 활용 아이디어 공모전</a> | 기획 | - |
+| 2020.06 ~ 2020.09 | <a href="https://github.com/ahyeon0508/Carrot_project">강화학습을 활용한 AI 당근재배 하우스</a> | 기획, 라즈베리파이 + OpenCV | - |
+| 2020.02 ~ 2020.06 | <a href="https://github.com/ahyeon0508/2020_software_project">고영희 찾기</a> | 기획, 머신러닝, 웹 프론트, API | - |
+| 2020.01 ~ 2020.01 | <a href="https://github.com/ahyeon0508/DS_CoalaUNIV2nd/blob/main/2%EA%B8%B0_%EC%88%AD%EC%BD%94%EB%94%A9%EB%8B%B9%EB%8B%B9_%EC%B5%9C%EC%A2%85.ipynb">내 연애는 얼마나 오래 갈까?</a> | 기획, 머신러닝 | - |
+| 2018.09 ~ 2018.12 | <a href="">Mella</a> | 기획, 아두이노 연결 | 장려상 |
+</details>
+</h4>
+
 
 </div>
 
