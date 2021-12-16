@@ -61,7 +61,7 @@
 <h4>
 <details>
         <summary>📚 Project 📚
-        </summary>
+        </summary><br>
     
 
 | 기간 | 프로젝트명 | 역할 | 수상내역 |
