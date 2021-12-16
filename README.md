@@ -14,49 +14,60 @@
 
 <br>
 
-#### 🌳 Tech Stack 🌳
+#### 🌳 Major Tech Stack 🌳
 
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-</div>
-<div>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
-    <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
-    <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=Power BI&logoColor=white">
-</div>
-<div>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
 </div>
-<div>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-</div>
-    <h4>
-        <details>
-            <summary>🎨 Experience and Study 🎨
-            </summary>
-            <div markdown="1"><br>
-                <a href="">Experience</a><br>
-                <a href="https://github.com/ahyeon0508/Algorithm">Algorithm</a><br>
-                <a href="https://github.com/ahyeon0508/DS_CoalaUNIV2nd">CoalaUNIV2nd</a><br>
-                <a href="https://github.com/ahyeon0508/DS_study">DS_study</a><br>
-                <a href="https://github.com/TAVEResearch/deep_learning">deep_learning</a><br>
-                <a href="https://github.com/ahyeon0508/DS_NLP">NLP</a><br>
-                <a href="https://github.com/ahyeon0508/DS_Recommendation-System">Recommendation-System</a><br>
+
+
+<h6>
+    <details>
+        <summary>🐥 Minor Tech Stack 🐥
+        </summary>
+        <div markdown="1"><br>
+            <div>
+                <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+                <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+                <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
             </div>
-        </details>
-    </h4>
+            <div>
+                <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+                <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
+                <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
+                <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white">
+                <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=Power BI&logoColor=white">
+            </div>
+            <div>
+                <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+                <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+            </div>
+        </div>
+    </details>
+</h6>
+
+<h4>
+    <details>
+        <summary>🎨 Experience and Study 🎨
+        </summary>
+        <div markdown="1"><br>
+            <a href="">Experience</a><br>
+            <a href="https://github.com/ahyeon0508/Algorithm">Algorithm</a><br>
+            <a href="https://github.com/ahyeon0508/DS_CoalaUNIV2nd">CoalaUNIV2nd</a><br>
+            <a href="https://github.com/ahyeon0508/DS_study">DS_study</a><br>
+            <a href="https://github.com/TAVEResearch/deep_learning">deep_learning</a><br>
+            <a href="https://github.com/ahyeon0508/DS_NLP">NLP</a><br>
+            <a href="https://github.com/ahyeon0508/DS_Recommendation-System">Recommendation-System</a><br>
+        </div>
+    </details>
+</h4>
 
 <h4>
 <details>
@@ -82,4 +93,3 @@
 
 
 </div>
-
