@@ -17,8 +17,6 @@
 #### 🙋‍♀️ About Me 🙋‍♀️
 <a href="https://ahyeon0508.github.io/" target="_blank"><img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=GitHub&logoColor=white">
 </a>
-<a href="https://violet-jackfruit-8f6.notion.site/Happy-Dev-c261cb6059d84de0a3a27634cd172b76" target="_blank"><img src="https://img.shields.io/badge/Profile-000000?style=flat-square&logo=Notion&logoColor=white">
-</a>    
     
 #### 🌳 Major Tech Stack 🌳
 
