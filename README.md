@@ -81,7 +81,7 @@
 
 | 기간 | 프로젝트명 | 역할 | 수상내역 |
 | --- | --- | --- | --- |
-| 2021.11 ~ 2021.12 | <a href="https://violet-jackfruit-8f6.notion.site/2021-cf8e59e5cdab4a96b488c72a1c494c99">2021년 디지털 산업혁신 빅데이터 플랫폼 경진대회</a> | 기획, 시각화 | 예선 통과 |
+| 2021.11 ~ 2021.12 | <a href="https://violet-jackfruit-8f6.notion.site/2021-5a66da946b8c45e693789756324ee593">2021년 디지털 산업혁신 빅데이터 플랫폼 경진대회</a> | 기획, 시각화 | 예선 통과 |
 | 2020.08 ~ 2021.11 | <a href="https://github.com/ahyeon0508/Interview-Solution_project_v2.0">새내기路(로) : AI기반 대입 모의 면접 솔루션</a> | 기획, 웹 프론트, API, 논문 작성 등 | 교내외 공모전 4개 수상(리드미 참고) |
 | 2021.09 ~ 2021.10 | <a href="https://github.com/ahyeon0508/Topping-Issue">톺핑있슈(Topping-Issue)</a> | 기획, 감성 분석, 웹 | - |
 | 2021.07 ~ 2021.09 | <a href="https://violet-jackfruit-8f6.notion.site/2021-5aabb27ff9dd4ba99333f9d63363fedc">2021 금융 데이터 경진대회</a> | 기획, 머신러닝 | - |
